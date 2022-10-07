@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cartClient/client.iml" filepath="$PROJECT_DIR$/cartClient/client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/microservices-fault-tolerance.iml" filepath="$PROJECT_DIR$/.idea/microservices-fault-tolerance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/paymentClient/paymentClient.iml" filepath="$PROJECT_DIR$/paymentClient/paymentClient.iml" />
+    </modules>
+  </component>
+</project>
